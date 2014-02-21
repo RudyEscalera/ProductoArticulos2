@@ -5,6 +5,7 @@ public class main {
 			Ventas venta=new Ventas();
 			
 			Imprimir.MostrarEnPantalla(venta.CobrarTotal());
+			System.out.print("a");
 			
 	}
 }
