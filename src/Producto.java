@@ -1,0 +1,4 @@
+
+interface Producto {
+	double Costoporcobrar();
+}
